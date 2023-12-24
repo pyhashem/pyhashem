@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋! My name is Hashem and I'm a Python Programmer from Iran</h2>
 
 ###
+<div align="center">
+<img align="center" src="https://github.com/hashemdalijeh/hashemdalijeh/assets/99620144/74cb8dae-b976-426e-94de-94b89fa3fb60"/>
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashemdalijeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFwNGw1dW5zMmR3N3FpdGFrbms4ZTBmZDlxdjNjZHVyYnZsbms1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4wR1UySH4ojsJ8EM6/giphy.gif"  />
+<img align="right" height="160" src="https://github.com/hashemdalijeh/hashemdalijeh/assets/99620144/3998d388-dce1-48b3-85de-6b3ade59cfab"/>
 
 ###
 

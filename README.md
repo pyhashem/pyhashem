@@ -1,15 +1,9 @@
-<h2 align="left">Hi 👋! My name is Hashem and I'm a Python Programmer from Iran</h2>
+<h2 align="left">Hi 👋! My name is Hashem and I'm a Python Programmer!</h2>
 
-###
-<div align="center">
-<img align="center" src="https://github.com/hashemdalijeh/hashemdalijeh/assets/99620144/74cb8dae-b976-426e-94de-94b89fa3fb60"/>
-</div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashemdalijeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashemdalijeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pyhashem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pyhashem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
